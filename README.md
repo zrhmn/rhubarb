@@ -1,5 +1,7 @@
 
 - [Network Protocols](./doc/NETWORK_PROTOCOLS.md)
+- [First TCP Server](./doc/FIRST_TCP_SERVER.md)
+- [Syntax Spice](./doc/SYNTAX_SPICE.md)
 
 -------------------------------------------------------------------------------
 
